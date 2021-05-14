@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **JavaCamp MvcKamp**
 
-- 👨‍💻 All of my projects are available at [sercanevyapan.dev](sercanevyapan.dev)
+- 👨‍💻 All of my projects are available at [sercanevyapan.dev](https://sercanevyapan.dev)
 
 - 📫 How to reach me **sercanevyapan@outlook.com**
 
