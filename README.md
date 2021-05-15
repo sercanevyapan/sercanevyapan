@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sercan Evyapan</h1>
 
-- 🔭 I’m currently working on **JavaCamp MvcKamp**
+- 🔭 I’m currently working on **JavaCamp and MvcProjeKampi**
 
 - 👨‍💻 All of my projects are available at [sercanevyapan.dev](https://sercanevyapan.dev)
 
