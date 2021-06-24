@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sercan Evyapan</h1>
 
-- 🔭 I’m currently working on **MvcProjeKampi**
+- 🔭 I’m currently working on Unity
 
 - 👨‍💻 All of my projects are available at [sercanevyapan.dev](https://sercanevyapan.dev)
 
